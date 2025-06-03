@@ -74,3 +74,10 @@ CLAUDE.md
 
 # cursor
 .cursor*
+
+# Sensitive data - Added for personal fork
+confluence_page_*.json
+confluence_page_*.md
+*.log
+.env.local
+.env.production
